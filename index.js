@@ -5,7 +5,7 @@ import SearchBar from './components/search_bar';
 import YTSearch from 'youtube-api-search';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
-const API_KEY = 'AIzaSyAmFcu07XBsIZeQOOk0aOdktgX7Uwxjo2Y'
+const API_KEY = 'Hidden API'
 
 //Creat a new component. This component should produce
 //some HTML
